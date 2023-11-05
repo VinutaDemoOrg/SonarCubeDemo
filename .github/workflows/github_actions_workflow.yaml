@@ -18,4 +18,4 @@ jobs:
           args: >
               -Dsonar.organization=vinutademoorg
               -Dsonar.projectKey=SonarCubeDemo
-              -Dsonar.python.coverage.reportPaths=coverage.xml
+              -Dsonar.PHP.coverage.reportPaths=coverage.xml
