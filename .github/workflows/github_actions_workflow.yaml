@@ -19,4 +19,4 @@ jobs:
               -Dsonar.organization=vinutademoorg
               -Dsonar.projectKey=SonarCubeDemo
               -Dsonar.PHP.coverage.reportPaths=coverage.xml
-              -Dsonar.language= PHP
+             
